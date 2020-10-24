@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
  ---
 
+# about
+
 <img src="/images/self.jpg" class="floatpic" width="220" height="300">
 
 Dr. Lidong Yang
