@@ -12,9 +12,10 @@ Zhengxin Yang, <u><b>Lidong Yang</b></u>, Li Zhang. <i>IEEE Transactions on Medi
 [[Paper]](https://ieeexplore.ieee.org/document/9197276)
 [[Video]](https://ieeexplore.ieee.org/document/9197276/media#media)
 
-* <b>Convolutional Spectral Kernel Learning</b>. Preprint.<br>
-<b>Jian Li</b>, Yong Liu, Weiping Wang. <i>arXiv preprint arXiv:2002.12744 , 2020</i>.<br>
-[[PDF]](https://arxiv.org/pdf/2002.12744)
+* <b>Design and Real-time Optimization for a Magnetic Actuation System with Enhanced Flexibility</b>. <br>
+Xingzhou Du, Moqiu Zhang, Jiangfan Yu, <u><b>Lidong Yang</b></u>, Philip Wai-Yan Chiu, Li Zhang. <i>IEEE Transactions on Mechatronics (**T-MECH**)</i>.<br>
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/9189816)
+[[Video]](https://ieeexplore.ieee.org/abstract/document/9189816/media#media)
 
 ## Conference Paper
 
