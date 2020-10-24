@@ -17,6 +17,14 @@ Xingzhou Du, Moqiu Zhang, Jiangfan Yu, <u><b>Lidong Yang</b></u>, Philip Wai-Yan
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/9189816)
 [[Video]](https://ieeexplore.ieee.org/abstract/document/9189816/media#media)
 
+### 2019
+
+* <b>Statistics-Based Automated Control for a Swarm of Paramagnetic Nanoparticles in 2-D Space</b>. <br>
+<u><b>Lidong Yang</b></u>, Jiangfan Yu, Li Zhang. <i>IEEE Transactions on Robotics (**T-RO**)</i>. (Regular Paper)<br>
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/8884178)
+[[Video]](https://ieeexplore.ieee.org/abstract/document/8884178/media#media)
+
+
 ## Conference Paper
 
 ### 2020
