@@ -10,36 +10,15 @@ redirect_from:
 
 <img src="/images/self.jpg" class="floatpic" width="220" height="300">
 
-Dr. Lidong Yang
+Lidong Yang received the bachelor degree in mechanical design, fabrication, and automation from [Harbin Institute of Technology] in 2014, and the Ph.D. degree in [Mechanical and Automation Engineering] from [The Chinese University of Hong Kong] in 2020. 
 
-Before Facebook, I was at GoDaddy helping build a deep learning platform
-for predicting small business behavior and personalizing experiences across
-the company.  I also created [GoDaddy Domain Appraisals], which uses neural
-networks to predict the resale value of a domain name better than a human
-expert.  I joined GoDaddy in 2013 as part of the [acquisition] of the startup
-[Locu], which I joined in 2011 while I was simultaneously getting my Ph.D. at
-[MIT][MIT] [CSAIL].
+From 2014 to 2016, he researched on robotics with the [State Key Laboratory of Robotics and System], Harbin Institute of Technology.
 
-I did my Ph.D. dissertation in the [Commit] group lead by  [Saman Amarasinghe].
-I started the [OpenTuner] project, an extensible framework for program
-autotuning.  I also created the [PetaBricks] programming language, a language
-that incorporates algorithmic choices to allow an integrated autotuner to
-explore search spaces of program implementations.  As an undergraduate, I did
-research with [Gene Cooperman] and helped create [DMTCP], a user-level
-distributed checkpoint/restart system.
 
-[GoDaddy Domain Appraisals]: https://www.godaddy.com/engineering/2019/07/26/domain-name-valuation/
-[acquisition]: http://allthingsd.com/20130819/godaddy-acquires-merchant-finder-startup-locu-for-70-million/
-[CSAIL]: http://www.csail.mit.edu/
-[DMTCP]: http://dmtcp.sourceforge.net/
-[Gene Cooperman]: http://www.ccs.neu.edu/home/gene/
-[Locu]: http://locu.com/
-[MIT]: http://www.mit.edu/
-[OpenTuner]: http://opentuner.org/
-[PetaBricks]: http://projects.csail.mit.edu/petabricks/
-[Commit]: http://groups.csail.mit.edu/commit/
-[Saman Amarasinghe]: http://people.csail.mit.edu/saman/
 
+[Harbin Institute of Technology]: http://en.hit.edu.cn/
+[Mechanical and Automation Engineering]: https://www4.mae.cuhk.edu.hk/
+[The Chinese University of Hong Kong]: https://www.cuhk.edu.hk/chinese/index.html
 
 
 # Research
