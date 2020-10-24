@@ -4,11 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2020
-* <b>Automated Spectral Kernel Learning</b>. <br>
-<b>Jian Li</b>, Yong Liu, Weiping Wang. <i>In Proceedings of the 34th AAAI Conference on Artificial Intelligence (**AAAI 2020**)</i>.<br>
-[[PDF]](https://lijian.ac.cn/files/2020_AAAI_ASKL/2020_AAAI_ASKL.pdf)
-[[Poster]](https://lijian.ac.cn/files/2020_AAAI_ASKL/2020_AAAI_AKSL_poster.pdf)
-[[Code]](https://github.com/superlj666/Automated-Spectral-Kernel-Learning)
+* <b>3D Visual Servoing of Magnetic Miniature Swimmers Using Parallel Mobile Coils</b>. <br>
+Zhengxin Yang, <b>Lidong Yang</b>, Li Zhang. <i>IEEE Transactions on Medical Robotics and Bionics (**T-MRB**)</i>.<br>
+[[Paper]](https://ieeexplore.ieee.org/document/9197276)
+[[Video]](https://ieeexplore.ieee.org/document/9197276/media#media)
+
 * <b>Convolutional Spectral Kernel Learning</b>. Preprint.<br>
 <b>Jian Li</b>, Yong Liu, Weiping Wang. <i>arXiv preprint arXiv:2002.12744 , 2020</i>.<br>
 [[PDF]](https://arxiv.org/pdf/2002.12744)
