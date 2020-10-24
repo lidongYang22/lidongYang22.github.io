@@ -1,8 +1,13 @@
 ---
-layout: page
----
+permalink: /
+title: "Homepage"
+excerpt: "Homepage"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+ ---
 
-# About me
 
 <img src="/images/self.jpg" class="floatpic" width="220" height="300">
 
