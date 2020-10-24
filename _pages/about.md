@@ -19,7 +19,7 @@ From 2014 to 2016, he researched on robotics with the [State Key Laboratory of R
 [Harbin Institute of Technology]: http://en.hit.edu.cn/
 [Mechanical and Automation Engineering]: https://www4.mae.cuhk.edu.hk/
 [The Chinese University of Hong Kong]: https://www.cuhk.edu.hk/chinese/index.html
-
+[State Key Laboratory of Robotics and System]：http://robot.hit.edu.cn/
 
 # Research
 
