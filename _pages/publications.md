@@ -13,14 +13,14 @@ Zhengxin Yang, <u><b>Lidong Yang</b></u>, Li Zhang. <i>IEEE Transactions on Medi
 [[Video]](https://ieeexplore.ieee.org/document/9197276/media#media)
 
 * <b>Design and Real-time Optimization for a Magnetic Actuation System with Enhanced Flexibility</b>. <br>
-Xingzhou Du, Moqiu Zhang, Jiangfan Yu, <u><b>Lidong Yang</b></u>, Philip Wai-Yan Chiu, Li Zhang. <i>IEEE Transactions on Mechatronics (**T-MECH**)</i>.<br>
+Xingzhou Du, Moqiu Zhang, Jiangfan Yu, <u><b>Lidong Yang</b></u>, Philip Wai-Yan Chiu, Li Zhang. <i>IEEE Transactions on Mechatronics (**T-MECH**)</i> (Regular Paper).<br>
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/9189816)
 [[Video]](https://ieeexplore.ieee.org/abstract/document/9189816/media#media)
 
 ### 2019
 
 * <b>Statistics-Based Automated Control for a Swarm of Paramagnetic Nanoparticles in 2-D Space</b>. <br>
-<u><b>Lidong Yang</b></u>, Jiangfan Yu, Li Zhang. <i>IEEE Transactions on Robotics (**T-RO**)</i>. (Regular Paper)<br>
+<u><b>Lidong Yang</b></u>, Jiangfan Yu, Li Zhang. <i>IEEE Transactions on Robotics (**T-RO**)</i> (Regular Paper).<br>
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/8884178)
 [[Video]](https://ieeexplore.ieee.org/abstract/document/8884178/media#media)
 
