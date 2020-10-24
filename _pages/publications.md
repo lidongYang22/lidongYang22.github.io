@@ -7,11 +7,15 @@ author_profile: true
 
 ### 2020
 
-1. <b>3D Visual Servoing of Magnetic Miniature Swimmers Using Parallel Mobile Coils</b>. <br>
+* <b>3D Visual Servoing of Magnetic Miniature Swimmers Using Parallel Mobile Coils</b>. <br>
 Zhengxin Yang, <u><b>Lidong Yang</b></u>, Li Zhang. <i>IEEE Transactions on Medical Robotics and Bionics (**T-MRB**)</i>.<br>
 [[Paper]](https://ieeexplore.ieee.org/document/9197276)
 [[Video]](https://ieeexplore.ieee.org/document/9197276/media#media)
 
-2. <b>Convolutional Spectral Kernel Learning</b>. Preprint.<br>
+* <b>Convolutional Spectral Kernel Learning</b>. Preprint.<br>
 <b>Jian Li</b>, Yong Liu, Weiping Wang. <i>arXiv preprint arXiv:2002.12744 , 2020</i>.<br>
 [[PDF]](https://arxiv.org/pdf/2002.12744)
+
+## Conference Paper
+
+### 2020
