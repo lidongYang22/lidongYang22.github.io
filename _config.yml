@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "Hong Kong"
-title                    : "Lidong Yang (杨立冬)"
+title                    : "Lidong Yang"
 title_separator          : "-"
-name                     : &name "Lidong Yang (杨立冬)"
+name                     : &name "Lidong Yang"
 description              : &description "personal description"
 url                      : https://lidongYang22.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,19 +82,17 @@ analytics:
 author:
   name             : "Lidong Yang (杨立冬)"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Postdoctoral Fellow, CUHK"
   location         : "Hong Kong"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "The Chinese University of Hong Kong (CUHK)"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=0kIH478AAAAJ&hl=zh-CN"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Lidong_Yang2/research"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
   foursquare       :
   github           : "academicpages"
   google_plus      :
@@ -109,7 +107,6 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
