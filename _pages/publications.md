@@ -18,4 +18,10 @@ Zhengxin Yang, <u><b>Lidong Yang</b></u>, Li Zhang. <i>IEEE Transactions on Medi
 
 ## Conference Paper
 
+* <b>Closed-Loop Control of a Helmholtz Coils System for 3-axis Magnetic Field Generation with High Precision</b>. <br>
+Jialin Jiang, <u><b>Lidong Yang</b></u>, Li Zhang. <i>2020 5th International Conference on Advanced Robotics and Mechatronics (**ICARM 2020**)</i>.<br>
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/9195388)
+
+
+
 ### 2020
