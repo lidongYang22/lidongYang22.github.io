@@ -38,6 +38,11 @@ Xingzhou Du, Moqiu Zhang, Jiangfan Yu, <u><b>Lidong Yang</b></u>, Philip Wai-Yan
 [[Paper]](https://ieeexplore.ieee.org/document/8832230)
 [[Video]](https://ieeexplore.ieee.org/document/8832230/media#media)
 
+* <b> Discrete-Time Optimal Control of Electromagnetic Coil Systems for Generation of Dynamic Magnetic Fields With High Accuracy</b>. <br>
+<u><b>Lidong Yang</b></u>, Edwin Yu, Chi-Ian Vong, Li Zhang. <i>IEEE/ASME Transactions on Mechatronics (**T-MECH**)</i>.<br>
+[[Paper]](https://ieeexplore.ieee.org/document/8674616)
+[[Video]](https://ieeexplore.ieee.org/document/8832230/media#media)
+
 
 ## Conference Paper
 
