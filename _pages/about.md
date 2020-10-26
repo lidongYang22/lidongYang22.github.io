@@ -10,9 +10,9 @@ redirect_from:
 
 <img src="/images/self.jpg" class="floatpic" width="220" height="300">
 
-Lidong Yang received the bachelor degree in mechanical design, fabrication, and automation from [Harbin Institute of Technology] in 2014, and the Ph.D. degree in [Mechanical and Automation Engineering] from [The Chinese University of Hong Kong] in 2020. 
+Lidong Yang received the bachelor degree in mechanical design, fabrication, and automation from [Harbin Institute of Technology] in 2014. Advised by [Prof. Li Zhang], I received my Ph.D. degree in [Mechanical and Automation Engineering] from [The Chinese University of Hong Kong] in 2020 with the committe members: [Prof. Yun-hui Liu], [Prof. Dong Sun] and [Prof. Samuel Kwok-Wai Au]. 
 
-From 2014 to 2016, he researched on robotics with the [State Key Laboratory of Robotics and System], Harbin Institute of Technology.
+Now, I'm conducting Postdoctoral research at CUHK. From 2014 to 2016, I researched on robotics with the [State Key Laboratory of Robotics and System], Harbin Institute of Technology.
 
 
 
@@ -20,6 +20,9 @@ From 2014 to 2016, he researched on robotics with the [State Key Laboratory of R
 [Mechanical and Automation Engineering]: https://www4.mae.cuhk.edu.hk/
 [The Chinese University of Hong Kong]: https://www.cuhk.edu.hk/chinese/index.html
 [State Key Laboratory of Robotics and System]: http://robot.hit.edu.cn/main.htm
+[Prof. Yun-hui Liu]: https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/
+[Prof. Dong Sun]: https://scholars.cityu.edu.hk/en/persons/dong-sun(f928c733-e6a6-45fc-a522-192fe99fbc50).html
+[Prof. Samuel Kwok-Wai Au]: https://www4.mae.cuhk.edu.hk/peoples/au-kwok-wai-samuel/
 
 # Latest News
 * May 2020 - I successfully defend my Ph.D. thesis, “Development and Control of Magnetic Microrobotics Systems for Biomedical Applications”. 
