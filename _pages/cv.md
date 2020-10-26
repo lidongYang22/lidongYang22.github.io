@@ -11,8 +11,8 @@ redirect_from:
 
 ### Address
 
-ERB 320, William M.W. Mong Engineering Building,
-The Chinese University of Hong Kong,
+ERB 320, William M.W. Mong Engineering Building,<br>
+The Chinese University of Hong Kong,<br>
 Hong Kong SAR, China
 
 Email: ldyang2@gmail.com
