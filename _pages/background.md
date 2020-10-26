@@ -9,7 +9,7 @@ author_profile: true
 
   The Chinese University of Hong Kong, 2016. 08-2020. 05
   
-* <b>B. Eng in Mechanical Engineering</b>
+* <b>B. Eng in Mechanical Engineering (Hornor School)</b>
 
   Harbin Institute of Technology, 2010. 09-2014. 07
 
