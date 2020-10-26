@@ -42,13 +42,12 @@ Now, I'm conducting Postdoctoral research at CUHK. From 2014 to 2016, I research
 # Awards
 * Aug 2020 - The <b>Best Student Paper Award</b> at 2020 [IEEE International Conference on Automation Science and Engineering (CASE 2020)] with the paper entitled “[Large-Workspace and High-Resolution Magnetic Microrobot Navigation Using Global-Local Path Planning and Eye-in-Hand Visual Servoing]”. 
 
-*Sep 2015-The Third prize in The 3rd International Construction Machinery and Special Vehicles Design Contest hosted by the China Beijing International Construction Machinery, Building Material Machines and Mining Machines Exhibition & Seminar (BICES)
+* Sep 2015 - The <b>Third prize</b> in The 3rd [International Construction Machinery and Special Vehicles Design Contest] hosted by the China Beijing International Construction Machinery, Building Material Machines and Mining Machines Exhibition & Seminar (BICES)
 
 
 [IEEE International Conference on Automation Science and Engineering (CASE 2020)]: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/case
 [Large-Workspace and High-Resolution Magnetic Microrobot Navigation Using Global-Local Path Planning and Eye-in-Hand Visual Servoing]: https://ieeexplore.ieee.org/document/9216900
-
-http://www.e-bices.org/EngnewsDetail.aspx?Type=F9AD60BF7528417DB3D0F6DD0F3CA98A&ParentId=AD11DB63FD413569
+[International Construction Machinery and Special Vehicles Design Contest]: http://www.e-bices.org/EngnewsDetail.aspx?Type=F9AD60BF7528417DB3D0F6DD0F3CA98A&ParentId=AD11DB63FD413569
 
 
 
