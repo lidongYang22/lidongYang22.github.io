@@ -23,6 +23,7 @@ Now, I'm conducting Postdoctoral research at CUHK. From 2014 to 2016, I research
 [Prof. Yun-hui Liu]: https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/
 [Prof. Dong Sun]: https://scholars.cityu.edu.hk/en/persons/dong-sun(f928c733-e6a6-45fc-a522-192fe99fbc50).html
 [Prof. Samuel Kwok-Wai Au]: https://www4.mae.cuhk.edu.hk/peoples/au-kwok-wai-samuel/
+[Prof. Li Zhang]: https://www4.mae.cuhk.edu.hk/peoples/zhang-li/
 
 # Latest News
 * May 2020 - I successfully defend my Ph.D. thesis, “Development and Control of Magnetic Microrobotics Systems for Biomedical Applications”. 
