@@ -3,6 +3,10 @@ title: "Publications ([Google Scholar](https://scholar.google.com.hk/citations?u
 permalink: /publications/
 author_profile: true
 ---
+## Book
+
+Li Zhang, Jiangfan Yu, <u><b>Lidong Yang</b></u>, 微纳机器人：从个体到集群 (Micro- and Nanorobots: From Individual to Swarm), 科学出版社， 2020.
+
 ## Journal Paper
 
 ### 2020
@@ -102,15 +106,26 @@ Qianqian Wang, <u><b>Lidong Yang</b></u>, Jiangfan Yu, Li Zhang. <i>Robotics and
 
 ### 2020
 
+* <b>Large-Workspace and High-Resolution Magnetic Microrobot Navigation Using Global-Local Path Planning and Eye-in-Hand Visual Servoing</b>. <br>
+<u><b>Lidong Yang</b></u>, Li Zhang. <i>2020 IEEE International Conference on Automation Science and Engineering (**CASE**)</i>. (<B>Best Student Paper Award</B>)<br>
+[[Paper]](https://ieeexplore.ieee.org/document/9216900)
+
+* <b>A Mobile Paramagnetic Nanoparticle Swarm with Automatic Shape Deformation Control</b>. <br>
+<u><b>Lidong Yang</b></u>, Jiangfan Yu, Li Zhang. <i>2020 International Conference on Advanced Robotics and Mechatronics (**ICRA**)</i>.<br>
+[[Paper]](https://ieeexplore.ieee.org/document/9197010)
+
+* <b>Eye-in-Hand 3D Visual Servoing of Helical Swimmers Using Parallel Mobile Coils</b>. <br>
+Zhengxin Yang, <u><b>Lidong Yang</b></u>, Li Zhang. <i>2020 International Conference on Advanced Robotics and Mechatronics (**ICRA**)</i>.<br>
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/9197276)
+
+
+
 * <b>RoboMag: A Magnetic Actuation System Based on Mobile Electromagnetic Coils With Tunable Working Space</b>. <br>
-Xingzhou Du, <u><b>Lidong Yang</b></u>, Jiangfan Yu, Kai-Fung Chan, Philip Wai-Yan Chiu, Li Zhang. <i>2020 5th International Conference on Advanced Robotics and Mechatronics (**ICARM 2020**)</i>.<br>
+Xingzhou Du, <u><b>Lidong Yang</b></u>, Jiangfan Yu, Kai-Fung Chan, Philip Wai-Yan Chiu, Li Zhang. <i>2020 5th International Conference on Advanced Robotics and Mechatronics (**ICARM**)</i>.<br>
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/9195280)
 
 * <b>Closed-Loop Control of a Helmholtz Coils System for 3-axis Magnetic Field Generation with High Precision</b>. <br>
-Jialin Jiang, <u><b>Lidong Yang</b></u>, Li Zhang. <i>2020 5th International Conference on Advanced Robotics and Mechatronics (**ICARM 2020**)</i>.<br>
+Jialin Jiang, <u><b>Lidong Yang</b></u>, Li Zhang. <i>2020 5th International Conference on Advanced Robotics and Mechatronics (**ICARM**)</i>.<br>
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/9195388)
 
-
-
-sdf
 
