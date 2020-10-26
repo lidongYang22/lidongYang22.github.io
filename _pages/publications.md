@@ -28,6 +28,12 @@ Xingzhou Du, Moqiu Zhang, Jiangfan Yu, <u><b>Lidong Yang</b></u>, Philip Wai-Yan
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/8884178)
 [[Video]](https://ieeexplore.ieee.org/abstract/document/8884178/media#media)
 
+* <b>An  Automated  Microrobotic  Platform  for  RapidDetection of C. diff Toxins</b>. <br>
+<u><b>Lidong Yang</b></u>, Yabin Zhang, Qianqian Wang, Li Zhang. <i>IEEE Transactions on Biomedical Engineering (**T-BME**)</i> (**Featured article**).<br>
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/8884178)
+[[Video]](https://ieeexplore.ieee.org/abstract/document/8884178/media#media)
+
+
 
 ## Conference Paper
 
