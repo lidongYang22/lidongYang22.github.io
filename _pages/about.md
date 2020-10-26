@@ -10,7 +10,7 @@ redirect_from:
 
 <img src="/images/self.jpg" class="floatpic" width="220" height="300">
 
-Lidong Yang received the bachelor degree in mechanical design, fabrication, and automation from [Harbin Institute of Technology] in 2014. Advised by [Prof. Li Zhang], I received my Ph.D. degree in [Mechanical and Automation Engineering] from [The Chinese University of Hong Kong] in 2020 with the committe members: [Prof. Yun-hui Liu], [Prof. Dong Sun] and [Prof. Samuel Kwok-Wai Au]. 
+I received my bachelor degree in mechanical design, fabrication, and automation from [Harbin Institute of Technology] in 2014. Advised by [Prof. Li Zhang], I received my Ph.D. degree in [Mechanical and Automation Engineering] from [The Chinese University of Hong Kong] in 2020 with the committe members: [Prof. Yun-hui Liu], [Prof. Dong Sun] and [Prof. Samuel Kwok-Wai Au]. 
 
 Now, I'm conducting Postdoctoral research at CUHK. From 2014 to 2016, I researched on robotics with the [State Key Laboratory of Robotics and System], Harbin Institute of Technology.
 
