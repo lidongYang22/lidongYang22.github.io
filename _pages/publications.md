@@ -92,6 +92,9 @@ Ben Wang, Kai-Fung Chan, Jiangfan Yu, Qianqian Wang, <u><b>Lidong Yang</b></u>, 
 [[Paper]](https://ieeexplore.ieee.org/document/7954722)
 [[Video]](https://ieeexplore.ieee.org/document/7954722/media#media)
 
+* <b>Characterizing Dynamic Behaviors of Three-Particle Paramagnetic Microswimmer near A Solid Surface</b>. <br>
+Qianqian Wang, <u><b>Lidong Yang</b></u>, Jiangfan Yu, Li Zhang. <i>Robotics and Biomimetics</i>.<br>
+[[Paper]](https://link.springer.com/article/10.1186%2Fs40638-017-0076-0)
 
 
 
