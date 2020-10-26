@@ -7,6 +7,10 @@ author_profile: true
 
 ### 2020
 
+
+* <b>Motion Control in Magnetic Microrobotics: From Individual and Multiple Robots to Swarms</b>. <br>
+<u><b>Lidong Yang</b></u>, Li Zhang. <i>Annual Review of Control, Robotics and Autonomous Systems</i>, Accepted.
+
 * <b>3D Visual Servoing of Magnetic Miniature Swimmers Using Parallel Mobile Coils</b>. <br>
 Zhengxin Yang, <u><b>Lidong Yang</b></u>, Li Zhang. <i>IEEE Transactions on Medical Robotics and Bionics (**T-MRB**)</i>.<br>
 [[Paper]](https://ieeexplore.ieee.org/document/9197276)
