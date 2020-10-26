@@ -14,6 +14,7 @@ I received my bachelor degree in mechanical design, fabrication, and automation 
 
 Now, I'm conducting Postdoctoral research at CUHK. From 2014 to 2016, I researched on robotics with the [State Key Laboratory of Robotics and System], Harbin Institute of Technology.
 
+You can find my CV [here](https://github.com/lidongYang22/lidongYang22.github.io/tree/master/files/CV_ldyang_2020.10).
 
 
 [Harbin Institute of Technology]: http://en.hit.edu.cn/
