@@ -58,6 +58,18 @@ Yabin Zhang, Lin Zhang, <u><b>Lidong Yang</b></u>, et al,. <i>Science Advances</
 [[Paper]](https://advances.sciencemag.org/content/5/1/eaau9650)
 [[Video]](https://advances.sciencemag.org/content/suppl/2019/01/07/5.1.eaau9650.DC1)
 
+* <b>Collective Behavior of Reconfigurable Magnetic Droplets via Dynamic Self-Assembly</b>. <br>
+Qianqian Wang, <u><b>Lidong Yang</b></u>, Ben Wang, Edwin Yu, Jiangfan Yu, Li Zhang. <i>ACS Applied Materials & Interfaces</i>.<br>
+[[Paper]](https://pubs.acs.org/doi/10.1021/acsami.8b17402)
+[[Video]](https://pubs.acs.org/doi/10.1021/acsami.8b17402)
+
+* <b>Bubble-Assisted Three-Dimensional Ensemble of Nanomotors for Improved Catalytic Performance</b>. <br>
+Ben Wang, Fengtonh Ji, <u><b>Lidong Yang</b></u>, Qianqian Wang, Li Zhang. <i>iScience</i>.<br>
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S2589004219303049)
+[[Video]](https://www.sciencedirect.com/science/article/pii/S2589004219303049)
+
+
+
 
 ### 2018
 
