@@ -68,9 +68,6 @@ Ben Wang, Fengtonh Ji, <u><b>Lidong Yang</b></u>, Qianqian Wang, Li Zhang. <i>iS
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S2589004219303049)
 [[Video]](https://www.sciencedirect.com/science/article/pii/S2589004219303049)
 
-
-
-
 ### 2018
 
 * <b>Model-Free Trajectory Tracking Control of Two-Particle Magnetic Microrobot</b>. <br>
@@ -83,6 +80,10 @@ Jiangfan Yu, <u><b>Lidong Yang</b></u><sup>*</sup>, Li Zhang. <i>International J
 [[Paper]](https://journals.sagepub.com/doi/10.1177/0278364918784366)
 [[Video]](https://journals.sagepub.com/doi/10.1177/0278364918784366)
 
+* <b>Reconfigurable Swarms of Ferromagnetic Colloids for Enhanced Local Hyperthermia</b>. <br>
+Ben Wang, Kai-Fung Chan, Jiangfan Yu, Qianqian Wang, <u><b>Lidong Yang</b></u>, Philip Wai-Yan Chiu, Li Zhang. <i>Advanced Functional Materials(**AFM**)</i>.<br>
+[[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201705701)
+[[Video]](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201705701)
 
 ### 2017
 
