@@ -43,7 +43,7 @@ Qianqian Wang, Jiangfan Yu, Ke Yuan, <u><b>Lidong Yang</b></u>, Li Zhang. <i>App
 [[Video]](https://ieeexplore.ieee.org/abstract/document/8884178/media#media)
 
 * <b>An  Automated  Microrobotic  Platform  for  RapidDetection of C. diff Toxins</b>. <br>
-<u><b>Lidong Yang</b></u>, Yabin Zhang, Qianqian Wang, Li Zhang. <i>IEEE Transactions on Biomedical Engineering (**T-BME**)</i> (**Featured article**).<br>
+<u><b>Lidong Yang</b></u>, Yabin Zhang, Qianqian Wang, Li Zhang. <i>IEEE Transactions on Biomedical Engineering (**T-BME**)</i> (**[Featured article](https://www.embs.org/tbme/articles/an-automated-microrobotic-platform-for-rapid-detection-of-c-diff-toxins/)**).<br>
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/8824121)
 [[Video]](https://ieeexplore.ieee.org/abstract/document/8824121/media#media)
 
