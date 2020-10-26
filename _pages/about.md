@@ -47,10 +47,13 @@ You can find my CV [here](https://github.com/lidongYang22/lidongYang22.github.io
 
 * Sep 2015 - The <b>Third prize</b> in The 3rd [International Construction Machinery and Special Vehicles Design Contest] hosted by the China Beijing International Construction Machinery, Building Material Machines and Mining Machines Exhibition & Seminar (BICES)
 
+* Dec 2012 - The <b>Second prize</b> for the 1st [‘Yuan-Zhejun’ College Students technology Innovation Fund] hosted by Harbin Institute of Technology.
+
 
 [IEEE International Conference on Automation Science and Engineering (CASE 2020)]: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/case
 [Large-Workspace and High-Resolution Magnetic Microrobot Navigation Using Global-Local Path Planning and Eye-in-Hand Visual Servoing]: https://ieeexplore.ieee.org/document/9216900
 [International Construction Machinery and Special Vehicles Design Contest]: http://www.e-bices.org/EngnewsDetail.aspx?Type=F9AD60BF7528417DB3D0F6DD0F3CA98A&ParentId=AD11DB63FD413569
+[‘Yuan-Zhejun’ College Students technology Innovation Fund]: http://today.hit.edu.cn/article/2018/12/10/62612
 
 
 
