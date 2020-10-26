@@ -8,9 +8,12 @@ main:
     
   - title: "Research"
     url: /research/
-
+  
   - title: "Professional Activities"
-    url: /talks/    
+    url: /activities/
+
+ # - title: "Professional Activities"
+  #  url: /talks/    
 
  # - title: "Teaching"
   #  url: /teaching/    
