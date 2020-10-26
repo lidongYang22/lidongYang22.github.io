@@ -156,5 +156,16 @@ Qianqian Wang, <u><b>Lidong Yang</b></u>, Jiangfan Yu, Chi-Ian Vong, Philip Wai-
 Qianqian Wang, <u><b>Lidong Yang</b></u>, Jiangfan Yu, Li Zhang. <i>2017 IEEE International Conference on Robotics and Biomimetics (**ROBIO**)</i>.<br>
 [[Paper]](https://ieeexplore.ieee.org/document/8324620)
 
+## Patent
 
+* <b>Parallel-Mobile-Coil Mechanism for Magnetic Manipulation in Large Workspace</b>. <br>
+Li Zhang, <u><b>Lidong Yang</b></u>, Moqiu Zhang. <i>U.S. Provisional Patent</i>.(Filed)
 
+* <b>Methods and Systems for Controlling Electromagnetic Field Generators</b>. <br>
+Li Zhang, <u><b>Lidong Yang</b></u>, Moqiu Zhang. <i>U.S. Non-Provisional Patent, US 2019/0295756</i>.
+
+* <b>Spore-Based Bio-Hybrid Microrobots and The Automated Detection System for Bacterial Toxins</b>. <br>
+Li Zhang, Yabin Zhang, <u><b>Lidong Yang</b></u>, et al,. <i>U.S. Non-Provisional Patent, US 2020/0131556</i>.
+
+* <b>Design and Control Method for Mobile-Electromagnetic-Coil-Based Magnetic Actuation Systems</b>. <br>
+Li Zhang, Xingzhou Du, Kai-Fung Chan, <u><b>Lidong Yang</b></u>, Moqiu Zhang. <i>U.S. Non-Provisional Patent</i>. (Filed)
