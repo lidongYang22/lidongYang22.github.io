@@ -19,7 +19,7 @@ author_profile: true
 * <b>Postgraduate Student</b>
   State Key Laboratory of Robotics and System, Harbin Institute of Technology, 2014. 09-2016. 07
   
-## Teaching
+## Teaching Activities
 
 ### Teaching Assistant
 
