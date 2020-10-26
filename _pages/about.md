@@ -26,6 +26,12 @@ From 2014 to 2016, he researched on robotics with the [State Key Laboratory of R
 
 
 # Research Highlights
+* <b>Magnetic manipulation</b>:
+
+* <b>Microrobot motion control</b>:
+
+* <b>Microrobot Swarm control</b>:
+
 
 
 # Awards
