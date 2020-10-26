@@ -26,6 +26,8 @@ Now, I'm conducting Postdoctoral research at CUHK. From 2014 to 2016, I research
 [Prof. Li Zhang]: https://www4.mae.cuhk.edu.hk/peoples/zhang-li/
 
 # Latest News
+* Aug 2020 - I received the <b>Best Student Paper Award</b> at 2020 IEEE International Conference on Automation Science and Engineering (CASE 2020)! 
+
 * May 2020 - I successfully defend my Ph.D. thesis, “Development and Control of Magnetic Microrobotics Systems for Biomedical Applications”. 
 
 
