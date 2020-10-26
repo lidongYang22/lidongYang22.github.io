@@ -29,7 +29,7 @@ From 2014 to 2016, he researched on robotics with the [State Key Laboratory of R
 
 
 # Awards
-* Aug 2020 - I received the Best Student Paper Award at 2020 [IEEE International Conference on Automation Science and Engineering] with the paper entitled “[Large-Workspace and High-Resolution Magnetic Microrobot Navigation Using Global-Local Path Planning and Eye-in-Hand Visual Servoing]”. 
+* Aug 2020 - I received the <b>Best Student Paper Award</b> at 2020 [IEEE International Conference on Automation Science and Engineering] with the paper entitled “[Large-Workspace and High-Resolution Magnetic Microrobot Navigation Using Global-Local Path Planning and Eye-in-Hand Visual Servoing]”. 
 
 
 
