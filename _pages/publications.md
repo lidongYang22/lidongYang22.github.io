@@ -118,8 +118,6 @@ Qianqian Wang, <u><b>Lidong Yang</b></u>, Jiangfan Yu, Li Zhang. <i>Robotics and
 Zhengxin Yang, <u><b>Lidong Yang</b></u>, Li Zhang. <i>2020 International Conference on Advanced Robotics and Mechatronics (**ICRA**)</i>.<br>
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/9197276)
 
-
-
 * <b>RoboMag: A Magnetic Actuation System Based on Mobile Electromagnetic Coils With Tunable Working Space</b>. <br>
 Xingzhou Du, <u><b>Lidong Yang</b></u>, Jiangfan Yu, Kai-Fung Chan, Philip Wai-Yan Chiu, Li Zhang. <i>2020 5th International Conference on Advanced Robotics and Mechatronics (**ICARM**)</i>.<br>
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/9195280)
@@ -127,5 +125,36 @@ Xingzhou Du, <u><b>Lidong Yang</b></u>, Jiangfan Yu, Kai-Fung Chan, Philip Wai-Y
 * <b>Closed-Loop Control of a Helmholtz Coils System for 3-axis Magnetic Field Generation with High Precision</b>. <br>
 Jialin Jiang, <u><b>Lidong Yang</b></u>, Li Zhang. <i>2020 5th International Conference on Advanced Robotics and Mechatronics (**ICARM**)</i>.<br>
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/9195388)
+
+### 2019
+
+* <b>DeltaMag: An Electromagnetic Manipulation System with Parallel Mobile Coils</b>. <br>
+<u><b>Lidong Yang</b></u>, Xingzhou Du, Edwin Yu, Dongdong Jin, Li Zhang. <i>2019 International Conference on Advanced Robotics and Mechatronics (**ICRA**)</i>.<br>
+[[Paper]](https://ieeexplore.ieee.org/document/8793543)
+
+* <b>Optimal Control of a 3-axis Helmholtz Coils System for Generation of Dynamic Magnetic Field Waveforms with High Accuracy</b>. <br>
+<u><b>Lidong Yang</b></u>, Li Zhang. <i>2019 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (**AIM**)</i>.<br>
+[[Paper]](https://ieeexplore.ieee.org/document/8868540)
+
+* <b>Autonomous Detection of C. diff Toxins in Clinical Stool Using A Magnetic Microrobotic System</b>. <br>
+<u><b>Lidong Yang</b></u>, Yabin Zhang, Li Zhang. <i>2019 Hamlyn Symposium on Medical Robotics</i>.<br>
+[[Paper]](https://www.imperial.ac.uk/media/imperial-college/hamlyn-centre/public/Proceedings_HSMR19.pdf)
+
+### 2018
+
+* <b>Automated Control of Multifunctional Magnetic Spores Using Fluorescence Imaging for Microrobotic Cargo Delivery</b>. <br>
+<u><b>Lidong Yang</b></u>, Yabin Zhang, Chi-Ian Vong, Li Zhang. <i>2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**)</i>.<br>
+[[Paper]](https://ieeexplore.ieee.org/document/8593790)
+
+* <b>Magnetic Navigation of a Rotating Colloidal Swarm Using Ultrasound Images</b>. <br>
+Qianqian Wang, <u><b>Lidong Yang</b></u>, Jiangfan Yu, Chi-Ian Vong, Philip Wai-Yan Chiu, Li Zhang. <i>2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**)</i>.<br>
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/8593898)
+
+### 2017
+
+* <b>Characterizing Dynamic Swimming Behaviors of Three-Particle Magnetic Microswimmer near A Solid Surface</b>. <br>
+Qianqian Wang, <u><b>Lidong Yang</b></u>, Jiangfan Yu, Li Zhang. <i>2017 IEEE International Conference on Robotics and Biomimetics (**ROBIO**)</i>.<br>
+[[Paper]](https://ieeexplore.ieee.org/document/8324620)
+
 
 
