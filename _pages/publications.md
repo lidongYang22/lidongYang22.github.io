@@ -159,7 +159,7 @@ Qianqian Wang, <u><b>Lidong Yang</b></u>, Jiangfan Yu, Li Zhang. <i>2017 IEEE In
 ## Patent
 
 * <b>Parallel-Mobile-Coil Mechanism for Magnetic Manipulation in Large Workspace</b>. <br>
-Li Zhang, <u><b>Lidong Yang</b></u>, Moqiu Zhang. <i>U.S. Provisional Patent</i>.(Filed)
+Li Zhang, <u><b>Lidong Yang</b></u>, Moqiu Zhang. <i>U.S. Provisional Patent</i>. (Filed)
 
 * <b>Methods and Systems for Controlling Electromagnetic Field Generators</b>. <br>
 Li Zhang, <u><b>Lidong Yang</b></u>, Moqiu Zhang. <i>U.S. Non-Provisional Patent, US 2019/0295756</i>.
