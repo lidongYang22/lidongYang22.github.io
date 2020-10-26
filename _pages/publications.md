@@ -43,6 +43,22 @@ Xingzhou Du, Moqiu Zhang, Jiangfan Yu, <u><b>Lidong Yang</b></u>, Philip Wai-Yan
 [[Paper]](https://ieeexplore.ieee.org/document/8674616)
 [[Video]](https://ieeexplore.ieee.org/document/8832230/media#media)
 
+### 2018
+
+* <b>Model-Free Trajectory Tracking Control of Two-Particle Magnetic Microrobot</b>. <br>
+<u><b>Lidong Yang</b></u><sup>*</sup>, Qianqian Wang<sup>*</sup>, Li Zhang. <i>IEEE Transactions on Nanotechnology (**T-NANO**)</i>.(<sup>*</sup><b>Co-first authorship</b>)<br>
+[[Paper]](https://ieeexplore.ieee.org/document/8317002)
+[[Video]](https://ieeexplore.ieee.org/document/8317002/media#media)
+
+### 2017
+
+* <b>A Miniature Flexible-Link Magnetic Swimming Robot With Two Vibration Modes: Design, Modeling and Characterization</b>. <br>
+<u><b>Lidong Yang</b></u>, Qianqian Wang, Chi-Ian Vong, Li Zhang. <i>IEEE Robotics and Automation Letters (**RA-L**)</i>.<br>
+[[Paper]](https://ieeexplore.ieee.org/document/7954722)
+[[Video]](https://ieeexplore.ieee.org/document/7954722/media#media)
+
+
+
 
 ## Conference Paper
 
