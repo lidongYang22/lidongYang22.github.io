@@ -19,13 +19,22 @@ From 2014 to 2016, he researched on robotics with the [State Key Laboratory of R
 [Harbin Institute of Technology]: http://en.hit.edu.cn/
 [Mechanical and Automation Engineering]: https://www4.mae.cuhk.edu.hk/
 [The Chinese University of Hong Kong]: https://www.cuhk.edu.hk/chinese/index.html
-[State Key Laboratory of Robotics and System]: https://robot.hit.edu.cn/
+[State Key Laboratory of Robotics and System]: http://robot.hit.edu.cn/main.htm
 
-# News
-
+# Latest News
+* May 2020 - I successfully defend my Ph.D. thesis, “Development and Control of Magnetic Microrobotics Systems for Biomedical Applications”. 
 
 
 # Research Highlights
+
+
+# Awards
+* Aug 2020 - I received the Best Student Paper Award at 2020 [IEEE International Conference on Automation Science and Engineering] with the paper entitled “[Large-Workspace and High-Resolution Magnetic Microrobot Navigation Using Global-Local Path Planning and Eye-in-Hand Visual Servoing]”. 
+
+
+
+[IEEE International Conference on Automation Science and Engineering]: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/case
+[Large-Workspace and High-Resolution Magnetic Microrobot Navigation Using Global-Local Path Planning and Eye-in-Hand Visual Servoing]: https://ieeexplore.ieee.org/document/9216900
 
 
 
