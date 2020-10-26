@@ -47,7 +47,12 @@ You can find my CV [here](https://github.com/lidongYang22/lidongYang22.github.io
 
 * Sep 2015 - The <b>Third prize</b> in The 3rd [International Construction Machinery and Special Vehicles Design Contest] hosted by the China Beijing International Construction Machinery, Building Material Machines and Mining Machines Exhibition & Seminar (BICES)
 
+
+* Sep 2014 - The <b>First class</b> Postgraduate Scholarship, Harbin Institute of Technology.
+
 * Dec 2012 - The <b>Second prize</b> for the 1st [‘Yuan-Zhejun’ College Students technology Innovation Fund] hosted by Harbin Institute of Technology.
+
+* Aug 2012 - The <b>First prize</b> in the 7th Bionic Robot Design Contest, Harbin Institute of Technology.
 
 
 [IEEE International Conference on Automation Science and Engineering (CASE 2020)]: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/case
