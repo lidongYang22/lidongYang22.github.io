@@ -30,9 +30,13 @@ Xingzhou Du, Moqiu Zhang, Jiangfan Yu, <u><b>Lidong Yang</b></u>, Philip Wai-Yan
 
 * <b>An  Automated  Microrobotic  Platform  for  RapidDetection of C. diff Toxins</b>. <br>
 <u><b>Lidong Yang</b></u>, Yabin Zhang, Qianqian Wang, Li Zhang. <i>IEEE Transactions on Biomedical Engineering (**T-BME**)</i> (**Featured article**).<br>
-[[Paper]](https://ieeexplore.ieee.org/abstract/document/8884178)
-[[Video]](https://ieeexplore.ieee.org/abstract/document/8884178/media#media)
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/8824121)
+[[Video]](https://ieeexplore.ieee.org/abstract/document/8824121/media#media)
 
+* <b> Automated Control of Magnetic Spore-Based  Microrobot  Using  Fluorescence  Imaging  for  Targeted  Delivery  With  Cellular  Resolution</b>. <br>
+<u><b>Lidong Yang</b></u>, Yabin Zhang, Qianqian Wang, Kai-Fung Chan, Li Zhang. <i>IEEE Transactions on Automation Science and Engineering (**T-ASE**)</i>.<br>
+[[Paper]](https://ieeexplore.ieee.org/document/8832230)
+[[Video]](https://ieeexplore.ieee.org/document/8832230/media#media)
 
 
 ## Conference Paper
