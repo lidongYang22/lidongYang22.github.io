@@ -80,7 +80,7 @@ Ben Wang, Fengtonh Ji, <u><b>Lidong Yang</b></u>, Qianqian Wang, Li Zhang. <i>iS
 [[Video]](https://ieeexplore.ieee.org/document/8317002/media#media)
 
 * <b>Pattern Generation and Motion Control of A Vortex-like Paramagnetic Nanoparticle Swarm</b>. <br>
-Jiangfan Yu, <u><b>Lidong Yang</b></u><sup>*</sup>, Li Zhang. <i>International Journal of Robotics Research (**IJRR**)</i>.<br>
+Jiangfan Yu, <u><b>Lidong Yang</b></u>, Li Zhang. <i>International Journal of Robotics Research (**IJRR**)</i>.<br>
 [[Paper]](https://journals.sagepub.com/doi/10.1177/0278364918784366)
 [[Video]](https://journals.sagepub.com/doi/10.1177/0278364918784366)
 
