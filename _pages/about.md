@@ -29,11 +29,12 @@ You can find my CV [here](https://github.com/lidongYang22/lidongYang22.github.io
 # Latest News
 * Nov 2020 - Our <b>Annual Review</b> article is [online].
 
-* Aug 2020 - I received the <b>Best Student Paper Award</b> at 2020 IEEE International Conference on Automation Science and Engineering (CASE 2020)![[CUHK Engineering]]
+* Aug 2020 - I received the <b>Best Student Paper Award</b> at 2020 IEEE International Conference on Automation Science and Engineering (CASE 2020)![[CUHK Engineering]][[CUHK MAE]]
 
 * May 2020 - I successfully defend my Ph.D. thesis, “Development and Control of Magnetic Microrobotics Systems for Biomedical Applications”. 
 
 [CUHK Engineering]: https://www.erg.cuhk.edu.hk/erg/node/2128
+[CUHK MAE]: https://www4.mae.cuhk.edu.hk/newsnawards/the-best-paper-award-in-the-ieee-international-conference-on-automation-science-and-engineering-2020/
 [online]: https://www.annualreviews.org/doi/abs/10.1146/annurev-control-032720-104318
 
 # Research Highlights
