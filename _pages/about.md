@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/ldyang12.png" class="floatpic" width="540" height="400">
+<img src="/images/aim2019.png" class="floatpic" width="540" height="400">
 
 I received my bachelor degree in mechanical design, fabrication, and automation from [Harbin Institute of Technology] in 2014. Advised by [Prof. Li Zhang], I received my Ph.D. degree in [Mechanical and Automation Engineering] from [The Chinese University of Hong Kong] in 2020 with the committe members: [Prof. Yun-hui Liu], [Prof. Dong Sun] and [Prof. Samuel Kwok-Wai Au]. 
 
