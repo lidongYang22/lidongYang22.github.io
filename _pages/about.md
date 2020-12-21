@@ -27,7 +27,7 @@ You can find my CV [here](https://github.com/lidongYang22/lidongYang22.github.io
 [Prof. Li Zhang]: https://www4.mae.cuhk.edu.hk/peoples/zhang-li/
 
 # Latest News
-* Dec 2020 - My second-authored paper received the <b>Toshio Fukuda Best Paper Award in Mechatronics</b> at 2020  IEEE International Conference on Advanced Robotics and Mechatronics (ICARM).
+* Dec 2020 - My second-authored paper received the <b>Toshio Fukuda Best Paper Award in Mechatronics</b> at 2020  IEEE International Conference on Advanced Robotics and Mechatronics (ICARM 2020).
 
 * Nov 2020 - Our <b>Annual Review</b> article is [online].
 
@@ -49,6 +49,8 @@ You can find my CV [here](https://github.com/lidongYang22/lidongYang22.github.io
 
 
 # Awards
+* Dec 2020 - The <b>Toshio Fukuda Best Paper Award in Mechatronics</b> at 2020 [IEEE International Conference on Advanced Robotics and Mechatronics (ICARM 2020)].
+
 * Aug 2020 - The <b>Best Student Paper Award</b> at 2020 [IEEE International Conference on Automation Science and Engineering (CASE 2020)] with the paper entitled “[Large-Workspace and High-Resolution Magnetic Microrobot Navigation Using Global-Local Path Planning and Eye-in-Hand Visual Servoing]”. 
 
 * Sep 2015 - The <b>Third prize</b> in The 3rd [International Construction Machinery and Special Vehicles Design Contest] hosted by the China Beijing International Construction Machinery, Building Material Machines and Mining Machines Exhibition & Seminar (BICES)
@@ -61,6 +63,7 @@ You can find my CV [here](https://github.com/lidongYang22/lidongYang22.github.io
 * Aug 2012 - The <b>First prize</b> in the 7th Bionic Robot Design Contest, Harbin Institute of Technology.
 
 
+[IEEE International Conference on Advanced Robotics and Mechatronics (ICARM 2020)]: http://www.ieee-arm.org/
 [IEEE International Conference on Automation Science and Engineering (CASE 2020)]: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/case
 [Large-Workspace and High-Resolution Magnetic Microrobot Navigation Using Global-Local Path Planning and Eye-in-Hand Visual Servoing]: https://ieeexplore.ieee.org/document/9216900
 [International Construction Machinery and Special Vehicles Design Contest]: http://www.e-bices.org/EngnewsDetail.aspx?Type=F9AD60BF7528417DB3D0F6DD0F3CA98A&ParentId=AD11DB63FD413569
