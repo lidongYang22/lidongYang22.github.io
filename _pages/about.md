@@ -27,6 +27,8 @@ You can find my CV [here](https://github.com/lidongYang22/lidongYang22.github.io
 [Prof. Li Zhang]: https://www4.mae.cuhk.edu.hk/peoples/zhang-li/
 
 # Latest News
+* Dec 2020 - My second-authored paper received the <b>Toshio Fukuda Best Paper Award in Mechatronics</b> at 2020  IEEE International Conference on Advanced Robotics and Mechatronics (ICARM).
+
 * Nov 2020 - Our <b>Annual Review</b> article is [online].
 
 * Aug 2020 - I received the <b>Best Student Paper Award</b> at 2020 IEEE International Conference on Automation Science and Engineering (CASE 2020)![[CUHK Engineering]][[CUHK MAE]]
