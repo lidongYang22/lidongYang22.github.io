@@ -13,7 +13,7 @@ Li Zhang, Jiangfan Yu, <u><b>Lidong Yang</b></u>, 微纳机器人：从个体到
 
 
 * <b>Motion Control in Magnetic Microrobotics: From Individual and Multiple Robots to Swarms</b>. <br>
-<u><b>Lidong Yang</b></u>, Li Zhang. <i>Annual Review of Control, Robotics and Autonomous Systems</i>, vol. 4, 2020.
+<u><b>Lidong Yang</b></u>, Li Zhang. <i>Annual Review of Control, Robotics and Autonomous Systems</i>, vol. 4, 2020.<br>
 [[Paper]](https://www.annualreviews.org/doi/10.1146/annurev-control-032720-104318)
 
 * <b>3D Visual Servoing of Magnetic Miniature Swimmers Using Parallel Mobile Coils</b>. <br>
