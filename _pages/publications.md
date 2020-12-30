@@ -13,7 +13,7 @@ Li Zhang, Jiangfan Yu, <u><b>Lidong Yang</b></u>, 微纳机器人：从个体到
 
 
 * <b>Motion Control in Magnetic Microrobotics: From Individual and Multiple Robots to Swarms</b>. <br>
-<u><b>Lidong Yang</b></u>, Li Zhang. <i>Annual Review of Control, Robotics and Autonomous Systems</i>, Accepted.
+<u><b>Lidong Yang</b></u>, Li Zhang. <i>Annual Review of Control, Robotics and Autonomous Systems</i>, vol. 4, 2020.
 
 * <b>3D Visual Servoing of Magnetic Miniature Swimmers Using Parallel Mobile Coils</b>. <br>
 Zhengxin Yang, <u><b>Lidong Yang</b></u>, Li Zhang. <i>IEEE Transactions on Medical Robotics and Bionics (**T-MRB**)</i>.<br>
@@ -119,7 +119,7 @@ Zhengxin Yang, <u><b>Lidong Yang</b></u>, Li Zhang. <i>2020 International Confer
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/9197276)
 
 * <b>RoboMag: A Magnetic Actuation System Based on Mobile Electromagnetic Coils With Tunable Working Space</b>. <br>
-Xingzhou Du, <u><b>Lidong Yang</b></u>, Jiangfan Yu, Kai-Fung Chan, Philip Wai-Yan Chiu, Li Zhang. <i>2020 5th International Conference on Advanced Robotics and Mechatronics (**ICARM**)</i>.<br>
+Xingzhou Du, <u><b>Lidong Yang</b></u>, Jiangfan Yu, Kai-Fung Chan, Philip Wai-Yan Chiu, Li Zhang. <i>2020 5th International Conference on Advanced Robotics and Mechatronics (**ICARM**)</i>.<br> (<B>Toshio Fukuda Best Paper Award in Mechatronics</B>)<br>
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/9195280)
 
 * <b>Closed-Loop Control of a Helmholtz Coils System for 3-axis Magnetic Field Generation with High Precision</b>. <br>
