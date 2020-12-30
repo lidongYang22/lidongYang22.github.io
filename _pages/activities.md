@@ -10,12 +10,17 @@ author_profile: true
 
 
 
-## Services
+## Editorship
 
-### Reviewers
 
-* Automatica
-* IEEE Robotics and Automation Letters (RA-L)
-* IEEE Sensors Journal
-* Journal of micro-bio robotics
-* IEEE International Conference on Robotics and Automation (ICRA)
+## Reviewers
+
+* IEEE Robotics and Automation Letters   
+* IEEE Transactions on Automation Science and Engineering
+* IEEE Sensors Journal  
+* Journal of micro-bio robotics  
+* Automatica  
+* Sensors
+* Electronics
+* Industrial Robot  
+* IEEE International Conference on Robotics and Automation (ICRA) 
