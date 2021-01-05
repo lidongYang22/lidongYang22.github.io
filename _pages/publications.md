@@ -9,8 +9,12 @@ Li Zhang, Jiangfan Yu, <u><b>Lidong Yang</b></u>, 微纳机器人：从个体到
 
 ## Journal Paper
 
-### 2020
+### 2021
 
+* <b>Closed-Loop Control of a Helmholtz Coil System for Accurate Actuation of Magnetic Microrobot Swarms</b>. <br>
+Jialin Jiang<sup>*</sup>, <u><b>Lidong Yang</b></u><sup>*</sup>, Li Zhang. <i>IEEE Robotics and Automation Letters (**RA-L**)</i>.(<sup>*</sup><b>Co-first authorship</b>)<br>
+
+### 2020
 
 * <b>Motion Control in Magnetic Microrobotics: From Individual and Multiple Robots to Swarms</b>. <br>
 <u><b>Lidong Yang</b></u>, Li Zhang. <i>Annual Review of Control, Robotics and Autonomous Systems</i>, vol. 4, 2020.<br>
