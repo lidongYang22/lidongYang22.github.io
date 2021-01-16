@@ -27,7 +27,7 @@ You can find my CV [here](https://github.com/lidongYang22/lidongYang22.github.io
 [Prof. Li Zhang]: https://www4.mae.cuhk.edu.hk/peoples/zhang-li/
 
 # Latest News
-* Jan 2021 - I serve as a guest associate editor for <b>Frontiers in Robotics and AI<\b>
+* Jan 2021 - I serve as a guest associate editor for <b>Frontiers in Robotics and AI</b>
 
 * Jan 2021 - One paper is published on IEEE-RAL.
 
