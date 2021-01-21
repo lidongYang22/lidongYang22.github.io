@@ -27,6 +27,9 @@ You can find my CV [here](https://github.com/lidongYang22/lidongYang22.github.io
 [Prof. Li Zhang]: https://www4.mae.cuhk.edu.hk/peoples/zhang-li/
 
 # Latest News
+
+* Jan 2021 - I serve as an Associate Editor for [2021 18th International Conference on Ubiquitous Robots].
+
 * Jan 2021 - I serve as a Guest Associate Editor for <b>Frontiers in Robotics and AI</b> with the research topic: [Imaging-Guided Microrobot Navigation for Targeted Delivery in Complex Environments].
 
 * Jan 2021 - One paper is published on <b>IEEE-RAL</b>.
@@ -39,6 +42,7 @@ You can find my CV [here](https://github.com/lidongYang22/lidongYang22.github.io
 
 * May 2020 - I successfully defend my Ph.D. thesis, “Development and Control of Magnetic Microrobotics Systems for Biomedical Applications”. 
 
+[2021 18th International Conference on Ubiquitous Robots]: http://www.ubiquitousrobots.org/2021/index.php
 [Imaging-Guided Microrobot Navigation for Targeted Delivery in Complex Environments]: https://www.frontiersin.org/research-topics/18817/imaging-guided-microrobot-navigation-for-targeted-delivery-in-complex-environments
 [CUHK Engineering]: https://www.erg.cuhk.edu.hk/erg/node/2128
 [CUHK MAE]: https://www4.mae.cuhk.edu.hk/newsnawards/the-best-paper-award-in-the-ieee-international-conference-on-automation-science-and-engineering-2020/
