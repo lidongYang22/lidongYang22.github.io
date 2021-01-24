@@ -28,6 +28,8 @@ You can find my CV [here](https://github.com/lidongYang22/lidongYang22.github.io
 
 # Latest News
 
+* Jan 2021 - One paper is published on <b>IEEE-TMECH</b>.
+
 * Jan 2021 - I serve as an Associate Editor for [2021 18th International Conference on Ubiquitous Robots].
 
 * Jan 2021 - I serve as a Guest Associate Editor for <b>Frontiers in Robotics and AI</b> with the research topic: [Imaging-Guided Microrobot Navigation for Targeted Delivery in Complex Environments].
