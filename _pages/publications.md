@@ -12,7 +12,7 @@ Li Zhang, Jiangfan Yu, <u><b>Lidong Yang</b></u>, 微纳机器人：从个体到
 ### 2021
 
 * <b>Autonomous Navigation of Magnetic Microrobots in A Large Workspace Using Mobile-Coil System</b>. <br>
-Zhengxin Yang<sup>*</sup>, <u><b>Lidong Yang</b></u><sup>*</sup>, Li Zhang. <i>IEEE/ASME Transactions on Mechatronics (**TMECH**)</i>.(<sup>*</sup><b>Co-first authorship</b>)<br>
+Zhengxin Yang<sup>*</sup>, <u><b>Lidong Yang</b></u><sup>*</sup>, Li Zhang. <i>IEEE/ASME Transactions on Mechatronics (**TMECH**)</i> (Regular Paper).(<sup>*</sup><b>Co-first authorship</b>)<br>
 
 * <b>Closed-Loop Control of a Helmholtz Coil System for Accurate Actuation of Magnetic Microrobot Swarms</b>. <br>
 Jialin Jiang<sup>*</sup>, <u><b>Lidong Yang</b></u><sup>*</sup>, Li Zhang. <i>IEEE Robotics and Automation Letters (**RA-L**)</i>.(<sup>*</sup><b>Co-first authorship</b>)<br>
