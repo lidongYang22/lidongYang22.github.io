@@ -18,7 +18,7 @@ Zhengxin Yang<sup>*</sup>, <u><b>Lidong Yang</b></u><sup>*</sup>, Li Zhang. <i>I
 Jialin Jiang<sup>*</sup>, <u><b>Lidong Yang</b></u><sup>*</sup>, Li Zhang. <i>IEEE Robotics and Automation Letters (**RA-L**)</i>.(<sup>*</sup><b>Co-first authorship</b>)<br>
 [[Paper]](https://ieeexplore.ieee.org/document/9327457)
 
-* <b>Magnetic Control of a Steerable Guidewire Under Ultrasound Guidance Using Mobile Electromagnets</b>. <br>    
+* <b>Magnetic Control of a Steerable Guidewire Under Ultrasound Guidance Using Mobile Electromagnets</b>. <br>  
 Zhengxin Yang, <u><b>Lidong Yang</b></u>, Moqiu Zhang, Qianqian Wang, Chun-Ho Yu, Li Zhang. <i>IEEE Robotics and Automation Letters (**RA-L**)</i>.
 
 ### 2020
