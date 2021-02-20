@@ -13,13 +13,18 @@ Li Zhang, Jiangfan Yu, <u><b>Lidong Yang</b></u>, 微纳机器人：从个体到
 
 * <b>Autonomous Navigation of Magnetic Microrobots in A Large Workspace Using Mobile-Coil System</b>. <br>
 Zhengxin Yang<sup>*</sup>, <u><b>Lidong Yang</b></u><sup>*</sup>, Li Zhang. <i>IEEE/ASME Transactions on Mechatronics (**TMECH**)</i> (Regular Paper).(<sup>*</sup><b>Co-first authorship</b>)<br>
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/9340367)
+[[Video]](https://ieeexplore.ieee.org/abstract/document/9340367/media#media)
 
 * <b>Closed-Loop Control of a Helmholtz Coil System for Accurate Actuation of Magnetic Microrobot Swarms</b>. <br>
 Jialin Jiang<sup>*</sup>, <u><b>Lidong Yang</b></u><sup>*</sup>, Li Zhang. <i>IEEE Robotics and Automation Letters (**RA-L**)</i>.(<sup>*</sup><b>Co-first authorship</b>)<br>
 [[Paper]](https://ieeexplore.ieee.org/document/9327457)
+[[Video]](https://ieeexplore.ieee.org/abstract/document/9327457/media#media)
 
 * <b>Magnetic Control of a Steerable Guidewire Under Ultrasound Guidance Using Mobile Electromagnets</b>.  
-Zhengxin Yang, <u><b>Lidong Yang</b></u>, Moqiu Zhang, Qianqian Wang, Chun-Ho Yu, Li Zhang. <i>IEEE Robotics and Automation Letters (**RA-L**)</i>.
+Zhengxin Yang, <u><b>Lidong Yang</b></u>, Moqiu Zhang, Qianqian Wang, Chun-Ho Yu, Li Zhang. <i>IEEE Robotics and Automation Letters (**RA-L**)</i>.<br>
+[[Paper]](https://ieeexplore.ieee.org/document/9347677)
+[[Video]](https://ieeexplore.ieee.org/document/9347677/media#media)
 
 ### 2020
 
