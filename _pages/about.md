@@ -28,6 +28,8 @@ You can find my CV [here](https://github.com/lidongYang22/lidongYang22.github.io
 
 # Latest News
 
+* Feb 2021 - One paper is published on <b>IEEE-TASE</b>.
+
 * Jan 2021 - One paper is published on <b>IEEE-TMECH</b>.
 
 * Jan 2021 - I serve as an Associate Editor for [2021 18th International Conference on Ubiquitous Robots].
