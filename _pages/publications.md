@@ -11,6 +11,9 @@ Li Zhang, Jiangfan Yu, <u><b>Lidong Yang</b></u>, 微纳机器人：从个体到
 
 ### 2021
 
+* <b> Micromanipulation  Using  Reconfigurable  Self-AssembledMagnetic Droplets with Needle Guidance</b>. <br>
+Qianqian Wang<sup>*</sup>, <u><b>Lidong Yang</b></u><sup>*</sup>, Li Zhang. <i>IEEE Transactions on Automation Science and Engineering (**TASE**)</i> (Regular Paper).(<sup>*</sup><b>Co-first authorship</b>)
+
 * <b>Autonomous Navigation of Magnetic Microrobots in A Large Workspace Using Mobile-Coil System</b>. <br>
 Zhengxin Yang<sup>*</sup>, <u><b>Lidong Yang</b></u><sup>*</sup>, Li Zhang. <i>IEEE/ASME Transactions on Mechatronics (**TMECH**)</i> (Regular Paper).(<sup>*</sup><b>Co-first authorship</b>)<br>
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/9340367)
