@@ -25,3 +25,4 @@ author_profile: true
 * Electronics
 * Industrial Robot  
 * IEEE International Conference on Robotics and Automation (ICRA) 
+* IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 
