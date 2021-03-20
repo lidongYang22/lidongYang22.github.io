@@ -24,6 +24,9 @@ Jialin Jiang<sup>*</sup>, <u><b>Lidong Yang</b></u><sup>*</sup>, Li Zhang. <i>IE
 [[Paper]](https://ieeexplore.ieee.org/document/9327457)
 [[Video]](https://ieeexplore.ieee.org/abstract/document/9327457/media#media)
 
+* <b>Endoscopy-assisted magnetic navigation of biohybrid soft microrobots with rapid endoluminal delivery and imaging</b>. <br>
+B. Wang, F. Chan, K. Yuan, Q. Wang, X. Xia, <u><b>L. Yang</b></u>, H. Ko, Y. Wang, J. Sung, W. Chiu, and L. Zhang.  <i>Science Robotics</i>. 
+
 * <b>Magnetic Control of a Steerable Guidewire Under Ultrasound Guidance Using Mobile Electromagnets</b>.  
 Zhengxin Yang, <u><b>Lidong Yang</b></u>, Moqiu Zhang, Qianqian Wang, Chun-Ho Yu, Li Zhang. <i>IEEE Robotics and Automation Letters (**RA-L**)</i>.<br>
 [[Paper]](https://ieeexplore.ieee.org/document/9347677)
