@@ -13,6 +13,9 @@ Li Zhang, Jiangfan Yu, <u><b>Lidong Yang</b></u>, 微纳机器人：从个体到
 
 * <b> Micromanipulation  Using  Reconfigurable  Self-Assembled Magnetic Droplets with Needle Guidance</b>. <br>
 Qianqian Wang<sup>*</sup>, <u><b>Lidong Yang</b></u><sup>*</sup>, Li Zhang. <i>IEEE Transactions on Automation Science and Engineering (**TASE**)</i> (Regular Paper).(<sup>*</sup><b>Co-first authorship</b>)
+[[Paper]](https://ieeexplore.ieee.org/document/9378941)
+[[Video]](https://ieeexplore.ieee.org/document/9378941/media#media)
+
 
 * <b>Autonomous Navigation of Magnetic Microrobots in A Large Workspace Using Mobile-Coil System</b>. <br>
 Zhengxin Yang<sup>*</sup>, <u><b>Lidong Yang</b></u><sup>*</sup>, Li Zhang. <i>IEEE/ASME Transactions on Mechatronics (**TMECH**)</i> (Regular Paper).(<sup>*</sup><b>Co-first authorship</b>)<br>
@@ -26,6 +29,7 @@ Jialin Jiang<sup>*</sup>, <u><b>Lidong Yang</b></u><sup>*</sup>, Li Zhang. <i>IE
 
 * <b>Endoscopy-assisted magnetic navigation of biohybrid soft microrobots with rapid endoluminal delivery and imaging</b>. <br>
 B. Wang, F. Chan, K. Yuan, Q. Wang, X. Xia, <u><b>L. Yang</b></u>, H. Ko, Y. Wang, J. Sung, W. Chiu, and L. Zhang.  <i>Science Robotics</i>. 
+[[Paper]](https://robotics.sciencemag.org/content/6/52/eabd2813)
 
 * <b>Magnetic Control of a Steerable Guidewire Under Ultrasound Guidance Using Mobile Electromagnets</b>.  
 Zhengxin Yang, <u><b>Lidong Yang</b></u>, Moqiu Zhang, Qianqian Wang, Chun-Ho Yu, Li Zhang. <i>IEEE Robotics and Automation Letters (**RA-L**)</i>.<br>
