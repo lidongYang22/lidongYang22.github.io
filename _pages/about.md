@@ -63,7 +63,7 @@ You can find my CV [here](https://github.com/lidongYang22/lidongYang22.github.io
 
 # Awards
 
-* Mar 2021 - The <b>Bronze prize</b> in The 2021 [International Exhibition of Inventions of Geneva].
+* Mar 2021 - The <b>Bronze prize</b> in The 2021 [International Exhibition of Inventions of Geneva] for the invention [QuickCAS: An easy-to-use analysis system for quick detection of infectious pathogens in clinical samples].
 
 * Dec 2020 - The <b>Toshio Fukuda Best Paper Award in Mechatronics</b> at 2020 [IEEE International Conference on Advanced Robotics and Mechatronics (ICARM 2020)].
 
@@ -80,6 +80,7 @@ You can find my CV [here](https://github.com/lidongYang22/lidongYang22.github.io
 
 
 [International Exhibition of Inventions of Geneva]:https://inventions-geneva.ch/en/home/
+[QuickCAS: An easy-to-use analysis system for quick detection of infectious pathogens in clinical samples]: https://www.cpr.cuhk.edu.hk/tc/press/cuhk-develops-novel-microrobotic-diagnostic-system-to-accurately-diagnose-infectious-pathogens-with-full-automation-and-low-cost/
 [IEEE International Conference on Advanced Robotics and Mechatronics (ICARM 2020)]: http://www.ieee-arm.org/
 [IEEE International Conference on Automation Science and Engineering (CASE 2020)]: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/case
 [Large-Workspace and High-Resolution Magnetic Microrobot Navigation Using Global-Local Path Planning and Eye-in-Hand Visual Servoing]: https://ieeexplore.ieee.org/document/9216900
