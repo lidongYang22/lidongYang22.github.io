@@ -62,6 +62,9 @@ You can find my CV [here](https://github.com/lidongYang22/lidongYang22.github.io
 
 
 # Awards
+
+* Mar 2021 - The <b>Bronze prize</b> in The 2021 [International Exhibition of Inventions of Geneva].
+
 * Dec 2020 - The <b>Toshio Fukuda Best Paper Award in Mechatronics</b> at 2020 [IEEE International Conference on Advanced Robotics and Mechatronics (ICARM 2020)].
 
 * Aug 2020 - The <b>Best Student Paper Award</b> at 2020 [IEEE International Conference on Automation Science and Engineering (CASE 2020)] with the paper entitled “[Large-Workspace and High-Resolution Magnetic Microrobot Navigation Using Global-Local Path Planning and Eye-in-Hand Visual Servoing]”. 
@@ -76,6 +79,7 @@ You can find my CV [here](https://github.com/lidongYang22/lidongYang22.github.io
 * Aug 2012 - The <b>First prize</b> in the 7th Bionic Robot Design Contest, Harbin Institute of Technology.
 
 
+[International Exhibition of Inventions of Geneva]:https://inventions-geneva.ch/en/home/
 [IEEE International Conference on Advanced Robotics and Mechatronics (ICARM 2020)]: http://www.ieee-arm.org/
 [IEEE International Conference on Automation Science and Engineering (CASE 2020)]: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/case
 [Large-Workspace and High-Resolution Magnetic Microrobot Navigation Using Global-Local Path Planning and Eye-in-Hand Visual Servoing]: https://ieeexplore.ieee.org/document/9216900
