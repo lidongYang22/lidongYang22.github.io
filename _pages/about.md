@@ -28,7 +28,7 @@ You can find my CV [here](https://github.com/lidongYang22/lidongYang22.github.io
 
 # Latest News
 
-* Mar 2021 - We recieved the Bronze prize in The 2021 International Exhibition of Inventions of Geneva for the invention.
+* Mar 2021 - We recieved the Bronze prize in The 2021 International Exhibition of Inventions of Geneva.
 
 * Feb 2021 - One paper is published on <b>IEEE-TASE</b>.
 
