@@ -36,6 +36,11 @@ Zhengxin Yang, <u><b>Lidong Yang</b></u>, Moqiu Zhang, Qianqian Wang, Chun-Ho Yu
 [[Paper]](https://ieeexplore.ieee.org/document/9347677)
 [[Video]](https://ieeexplore.ieee.org/document/9347677/media#media)
 
+* <b>On-Demand Assembly and Disassembly of a 3D Swimming Magnetic Mini-Propeller with Two Modules</b>.  
+Fengtong Ji, Wai-Shing Liu, <u><b>Lidong Yang</b></u>, Tiantian Xu, Xinyu Wu, Li Zhang. <i>IEEE Robotics and Automation Letters (**RA-L**)</i>.<br>
+[[Paper]](https://ieeexplore.ieee.org/document/9447163)
+
+
 ### 2020
 
 * <b>Motion Control in Magnetic Microrobotics: From Individual and Multiple Robots to Swarms</b>. <br>
