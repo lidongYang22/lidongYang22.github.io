@@ -136,6 +136,14 @@ Qianqian Wang, <u><b>Lidong Yang</b></u>, Jiangfan Yu, Li Zhang. <i>Robotics and
 
 ## Conference Paper
 
+### 2021
+
+* <b>Hybrid Magnetic Force and Torque Actuation of Miniature Helical Robots Using Mobile Coils to Accelerate Blood Clot Removal</b>. <br>
+<u><b>Lidong Yang</b></u>, Moqiu Zhang, Haojin Yang, Zhengxin Yang, Li Zhang. <i>2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**)</i>.<br>
+
+* <b>Simultaneous Actuation and Localization of Magnetic Robots Using Mobile Coils and Eye-In-Hand Hall-Effect Sensors</b>. <br>
+ Moqiu Zhang, <u><b>Lidong Yang</b></u>, Chong Zhang, Zhengxin Yang, Li Zhang. <i>2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**)</i>.<br>
+
 ### 2020
 
 * <b>Large-Workspace and High-Resolution Magnetic Microrobot Navigation Using Global-Local Path Planning and Eye-in-Hand Visual Servoing</b>. <br>
